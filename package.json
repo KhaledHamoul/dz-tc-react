@@ -1,6 +1,6 @@
 {
   "name": "dz-tc-react",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Algérian territorial collectivities (wilayas, communes, dairas) components for react.",
   "main": "index.js",
   "scripts": {
