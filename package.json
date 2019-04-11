@@ -1,0 +1,30 @@
+{
+  "name": "dz-tr-react",
+  "version": "0.5.0",
+  "description": "Algérian territorial collectivities (wilayas, communes, dairas) components for react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhaledHamoul/dz-tc-react.git"
+  },
+  "keywords": [
+    "Algrian",
+    "territorial",
+    "collectivities",
+    "wilayas",
+    "communes",
+    "dairas",
+    "dz",
+    "Algeria",
+    "Algérie"
+  ],
+  "author": "Khaled Hamoul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhaledHamoul/dz-tc-react/issues"
+  },
+  "homepage": "https://github.com/KhaledHamoul/dz-tc-react#readme"
+}
